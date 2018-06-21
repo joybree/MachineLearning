@@ -11,6 +11,7 @@ from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 import pandas as pd
 import numpy as np
 from datetime import datetime
+import pylab as pl
 
 ###Global varible
 
